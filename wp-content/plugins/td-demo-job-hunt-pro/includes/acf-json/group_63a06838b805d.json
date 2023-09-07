@@ -1,0 +1,65 @@
+{
+    "key": "group_63a06838b805d",
+    "title": "Job details",
+    "fields": [
+        {
+            "key": "field_63a0683a36ef3",
+            "label": "Phone number",
+            "name": "tdcf_job_phone_number",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_63a0686136ef4",
+            "label": "Email address",
+            "name": "tdcf_job_email_address",
+            "aria-label": "",
+            "type": "email",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "tdcpt_jobs"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1693685382,
+    "local_file": "\/homepages\/44\/d922533528\/htdocs\/clickandbuilds\/QSEconseils\/wp-content\/plugins\/td-demo-job-hunt-pro\/includes\/acf-json\/group_63a06838b805d.json"
+}
